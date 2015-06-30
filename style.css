@@ -1,0 +1,14 @@
+@import "style-2.css";
+@import "style-tabel.css";
+p {font-family: arial; font-size: small;}
+h1 {color: red; font-size:16px;}
+
+.tengah {text-align:center;}
+.tengah p {color:red;}
+.tengah h1 {color:green;}
+h1.kiri {color:blue;font-weight:100000;}
+
+#tengah {text-align:right;}
+#tengah p {color:blue;}
+#tengah h1 {color:yellow;font-variant: small-caps;}
+h1#kiri {color:black;font-variant: small-caps;}
